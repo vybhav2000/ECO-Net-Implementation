@@ -5,5 +5,5 @@ This is an implementation of the research paper(paper review) of the paper as pa
 <h2>Training Results</h2>
 <img src="images/ECO result.PNG" width=600 height=300>
 <h2>Model Testing</h2>
-<img src="images/Brush.PNG" width=300 height=300>
-<img src="images/Money.PNG" width=300 height=300>
+<img src="images/Brush.PNG" width=600 height=300>
+<img src="images/Money.PNG" width=600 height=300>
